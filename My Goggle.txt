@@ -34,3 +34,5 @@ $discard,site=inverse
 $discard,site=pcgamer.com
 $discard,site=gamespot.com
 $discard,site=cbr.com
+$discard,site=screenrant.com
+$discard,site=game8.co
